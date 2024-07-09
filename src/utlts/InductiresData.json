@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Automotive and EV",
+    "slug": "automotive_and_ev",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. ",
+    "image": "/assets/home/lab4.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Composite Meteials & Plastics",
+    "slug": "composite_meteials_and_plastics",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. ",
+    "image": "/assets/home/lab4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Construction",
+    "slug": "construction",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. ",
+    "image": "/assets/home/lab4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Electronics & Electrical",
+    "slug": "electronics_and_electrical",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. ",
+    "image": "/assets/home/lab4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Food",
+    "slug": "food",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. ",
+    "image": "/assets/home/lab4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Metal & Mining",
+    "slug": "metal_and_mining",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. ",
+    "image": "/assets/home/lab4.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Oil & Gas",
+    "slug": "oil_and_gas",
+    "description": "lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. lorem ipsum dolor sit amet consectetur adipisicing elit. Magni, corporis. ",
+    "image": "/assets/home/lab4.jpg"
+  }
+]
